@@ -1,0 +1,43 @@
+.box1 {
+  width: 945px;
+  height: 370px;
+  background: url("../img/01.jpg");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.box1 .title {
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 140px;
+}
+
+.box2 {
+  width: 945px;
+  height: 370px;
+  background: url("../img/02.jpg");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.box2 .title {
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.box2 .text {
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 50px;
+}
